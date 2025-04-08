@@ -13,7 +13,7 @@
 
 <br>
 
-<img align="right" width=200px height=200px style="border-radius: 50%;" alt="side_sticker" src="./images/avt.jpg" />
+<img align="right" width=200px height=200px alt="side_sticker" src="./images/avt.jpg" />
 
 ### <img src="./images/stats.gif" width="30px" height="30px"> **_About Me_**
 
@@ -91,9 +91,9 @@
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    <code><a href="https://www.facebook.com/ngvuq.11/"><img width="30px" src="./images/facebook.png" title="Facebook"/></a></code>
-	  <code><a href="https://www.linkedin.com/in/quocnguyenvu/"><img width="30px" src="./images/linkedin.png" title="Linkedin"/></a></code>
-	  <code><a href="mailto:ngvuquoc.17@gmail.com"><img width="30px" src="./images/gmail.png" title="Gmail"/></a></code>
+    <a href="https://www.facebook.com/ngvuq.11/"><img width="30px" src="./images/facebook.png" title="Facebook"/></a>
+	  <a href="https://www.linkedin.com/in/quocnguyenvu/"><img width="30px" src="./images/linkedin.png" title="Linkedin"/></a>
+	  <a href="mailto:ngvuquoc.17@gmail.com"><img width="30px" src="./images/gmail.png" title="Gmail"/></a>
   </p>
 
   <p align="center">
