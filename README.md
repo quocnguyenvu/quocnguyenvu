@@ -1,4 +1,7 @@
 ![alt text](./images/wave-haikei.svg)
+<p align="center">
+      <img src="https://komarev.com/ghpvc/?username=quocnguyenvu&label=Profile+Views" alt="quocnguyenvu" />
+  </p>
 
 <h3 align="center">Fullstack Developer | Web Freelancer</h3>
 
